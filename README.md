@@ -13,8 +13,10 @@ The last number is the root-mean square error of the grid as compared to the ana
 
 If you use the grids in your work, please cite:
 
-Kaltak et al., dx.doi.org/10.1021/ct5001268 | J. Chem. Theory Comput. 2014, 10, 2498−2507
+Kaltak et al., https://doi.org/10.1021/ct5001268 | J. Chem. Theory Comput. 2014, 10, 2498−2507
+
 Förster et al., https://doi.org/10.1021/acs.jctc.0c00693 | J. Chem. Theory Comput. 2020, 16, 12, 7381–7399
+
 Förster et al., https://doi.org/10.1021/acs.jctc.1c00308 | J. Chem. Theory Comput. 2021, 17, 8, 5080–5097
 
 
